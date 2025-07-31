@@ -9,13 +9,13 @@ It then performs the chosen operation and displays the result.
 
 1. Make sure you have Python 3 installed.
 2. Clone this repository:
-git clone git@github.com:yourusername/simple-calculator.git
+   `git clone git@github.com:yourusername/simple-calculator.git`
 
-3. Navigate into the project folder:
-cd simple-calculator
+4. Navigate into the project folder:
+   `cd simple-calculator`
 
-4. Run the script:
-python calculator.py
+6. Run the script:
+   `python calculator.py`
 
 ---
 
